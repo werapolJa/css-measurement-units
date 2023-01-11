@@ -1,0 +1,21 @@
+{
+  "name": "css-hh-measurement-units",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techupth/css-hh-measurement-units.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techupth/css-hh-measurement-units/issues"
+  },
+  "homepage": "https://github.com/techupth/css-hh-measurement-units#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  }
+}
